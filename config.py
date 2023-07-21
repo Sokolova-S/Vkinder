@@ -1,3 +1,3 @@
-comunity_token = 'vk1.a.ojBr1rruOx-5Q743ZMhtk3seFb3oFL1NKM1GQyqq8toBP7x2-lJYnsQ3wYkrxiluC1e5p2sx7m_KtzQ70U7QZz3NvrtUOevt2MYMPG6eJfZk_OJo5_DbT0tg71WF-cQXD4DKv-jl9eKBNua0Z6swmPrr4LeOnpf_wXFymSaVQ3IhsrB7cMpwwzNSlwe6H1mAp-CINiOavfA3vtX5PETzHw'
-access_token = 'vk1.a.hbsNDKAejk4uMxMBLCfyjqPiWcVQaocX_1OlNcX-eSMKADqVeonsqnFsy3_9yklmcCD-8AzzzEyCvQLMOw3ZGm4usGhsnDjo_X1IRG5RSBACXJk9T9HFk_Iya_fDx3vlf9lRFzFxIy-FTuHYNpDAMZa9sLYptEaNPGd_roKb7iGUNRnzhUEcut58EzIZJyaqRHJWa7lWYSUSYZ_0brvZ6g'
+comunity_token = ''
+access_token = ''
 db_url_object = 'postgresql+psycopg2://student:student@localhost/Vkinder:postgres:08032002'
