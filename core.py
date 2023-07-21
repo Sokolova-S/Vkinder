@@ -20,8 +20,8 @@ class VkTools:
 
     def __init__(self, access_token):
         self.api = vk_api.VkApi(
-            login='79069463436',
-            password='Ssoffiistarsup',
+            login='',
+            password='',
             token=access_token
         )
 
